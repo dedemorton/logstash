@@ -627,9 +627,7 @@ A few log entries come from Buffalo, so the query produces the following respons
 
 --------------------------------------------------------------------------------
 
-If you are using Kibana to visualize your data, you can also explore the Filebeat data in Kibana:
-
-image::static/images/kibana-filebeat-data.png[Discovering Filebeat data in Kibana]
+If you are using Kibana to visualize your data, you can also explore the Filebeat data in Kibana.
 
 See the {filebeat}filebeat-getting-started.html[Filebeat getting started docs] for info about loading the Kibana
 index pattern for Filebeat.
