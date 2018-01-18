@@ -1,7 +1,7 @@
 [[multiple-pipelines]]
 === Multiple Pipelines
 
-THIS IS SOME CRAP.
+THIS IS SOME BAD.
 
 If you need to run more than one pipeline in the same process, Logstash provides a way to do this through a configuration file called `pipelines.yml`.
 This file must be placed in the `path.settings` folder and follows this structure:
